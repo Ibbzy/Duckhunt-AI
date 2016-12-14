@@ -1,6 +1,6 @@
 # Duckhunt-AI
 
-First assingment in DD2300 - "Artificial Intelligence"
+Second assingment in DD2300 - "Artificial Intelligence"
 
 Developed the player and HMM class. The rest is the skeleton needed to run the game.
 
